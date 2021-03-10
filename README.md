@@ -2,20 +2,6 @@
 
 <h2 align="center">My name is Eric (he/him). N-eyes to meet you! :eyeglasses:</h2>
 
-<p align="center">
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-<img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
-<img alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182.svg?&style=for-the-badge&logo=jasmine&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
-
 I'm a Front-End Web Developer, focused on helping make apps as accessible as possible. As someone with an eye disease, having accessible features in an app can be a huge deal for me. Understanding how certain features affect others with impairments or disabilties is something I am constantly researching, so that I can improve how accessible my apps are to a wider audience.
 
 It can be easy to overlook how certain features can affect (or even turn away) those with an impairment or disability. Something such as a dark theme option or having an outline on focused elements may seem like something simple (or not needed) to some, but can actually be an incredible benefit for many. Animations, contrasts, visual focus indicators, warnings for unexpected and loud sounds... Those are just some things I think more need to take into consideration in their app designs.
