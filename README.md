@@ -39,6 +39,4 @@ For the campaign that I run, I took bits and pieces of a homebrew to design my o
 
 ---
 
-![thatblindgeye's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatblindgeye&hide=stars,contribs,issues&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatblindgeye&layout=compact)](https://github.com/thatblindgeye/github-readme-stats)
+![thatblindgeye's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatblindgeye&hide=stars,contribs,issues&show_icons=true&theme=midnight-purple)
