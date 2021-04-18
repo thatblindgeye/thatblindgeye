@@ -1,5 +1,8 @@
 <img alt="A banner with the text, 'dedicated to creating an accessible web experience.'" src="./gitbanner.png">
 
+<a href="mailto:ejo10488@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ericolkowski/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<br><br>
 <h2 align="center">My name is Eric (he/him). N-eyes to meet you! :eyeglasses:</h2>
 
 I'm a Front-End Web Developer, focused on making apps as accessible as possible. As someone with an eye disease, having accessible features in an app can be a huge deal for me. Understanding how certain features affect others with impairments or disabilties is something I am constantly researching, so that I can improve how accessible my apps are to a wider audience.
@@ -16,7 +19,7 @@ The great thing I've found, and am currently developing my skills on, is that th
 
 ### Currently...
 
-I'm expanding my skills in creating accessible-friendly apps (does this belong here or the "from now until forever" section?), and learning to use asynchronous functions and APIs. I'm also working with webpack more and more to fine-tune my work process when using it.
+I'm expanding my skills in creating accessible-friendly apps (does this belong here or the "from now until forever" section?) and currently learning how to utilize Sass and React.
 
 Beyond expanding my skills and knowledge, I'm a member of [The Odin Project](https://www.theodinproject.com/), where I help other members (especially with accessibility features in HTML/CSS) and receive help from an incredible community, am part of a book club for You Don't Know JavaScript (1st Edition), and make contributions to the Odin Project repos.
 
@@ -24,7 +27,7 @@ Beyond expanding my skills and knowledge, I'm a member of [The Odin Project](htt
 
 ### Future Plans...
 
-- Delve into React, as well as some of the more popular CSS frameworks.
+- Delve some of the more popular CSS frameworks.
 - Expand my back-end knowledge to evolve from a front-end dev to a full-stack dev.
 - Work on the aesthetic side of my apps in parallel with the accessibility side.
 - Continue making contributions to The Odin Project, and look for other open source contributions that I can become a part of. Know of any? Let me know!
