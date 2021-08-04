@@ -5,32 +5,35 @@
 <br><br>
 <h2 align="center">My name is Eric (he/him). N-eyes to meet you! :eyeglasses:</h2>
 
-I'm a Front-End Web Developer, focused on making apps as accessible as possible. As someone with an eye disease, having accessible features in an app can be a huge deal for me. Understanding how certain features affect others with impairments or disabilties is something I am constantly researching, so that I can improve how accessible my apps are to a wider audience.
+I'm a Front-End Web Developer, focused on making apps as accessible as possible. As someone with an eye disease, having accessible features in an app can be a huge deal for me. Understanding how certain features affect others with impairments or disabilties is something I am constantly researching and wanting to expand my knowledge of. My goal with any project I create is to make it as accessible as possible.
 
-It can be easy to overlook how certain features can affect (or even turn away) those with an impairment or disability. Something such as a dark theme option or having an outline on focused elements may seem like something simple (or not needed!) to some, but can actually be an *incredible* benefit for many. Animations, contrasts, visual focus indicators, warnings for unexpected and loud sounds... Those are just some of the things that I think we all need to take into consideration with our app designs.
-
-The great thing I've found, and am currently developing my skills on, is that there doesn't have to be such a black and white choice when it comes to making a site accessible or keeping aesthetic features. Simply having a warning on page load, stating that your app uses animations or has unexpected sounds, and offering the choice to disable those options? Even that can be a massive improvement and is one step further in the right direction. 
+The great thing about learning more and more about accessibility is that not once have I ever felt like I wasn't doing enough, or that I had to cater to every accessibility feature out there immediately. I understand that I am learning and growing, and I'll know more tomorrow than I do today. A particular quote that I think more people should understand about making things more accessible, especially if they're just starting to do so:
 
 > "Just try and fix something. One thing, two things, another thing tomorrow. And if you can do that, then trust me, you'll be making a difference for somebody out there."
 >
 >  — [Léonie Watson, *Front-Trends 2015*](https://www.youtube.com/watch?v=qdB8SRhqvFc&t=1418s)
 
+<br>
+
+Beyond my personal goal of learning about (and helping others better understand) accessibility, I also have experience with React (both class components with lifecycle methods and functional components with hooks), asyncrhonous JavaScript (async/await and Promises), webpack and modules, and team-based programming by taking part in [The Odin Project](https://www.theodinproject.com/)'s first gamejam. 
+
 ---
 
 ### Currently...
 
-I'm expanding my skills in creating accessible-friendly apps (does this belong here or the "from now until forever" section?) and currently learning how to utilize Sass and React.
+I'm expanding my skills in creating accessible-friendly apps (does this belong here or the "from now until forever" section?), and will soon be diving into learning more about test driven development.
 
-Beyond expanding my skills and knowledge, I'm a member of [The Odin Project](https://www.theodinproject.com/), where I help other members (especially with accessibility features in HTML/CSS) and receive help from an incredible community, am part of a book club for You Don't Know JavaScript (1st Edition), and make contributions to the Odin Project repos.
+Beyond expanding my skills and knowledge, I'm a member of The Odin Project and its Discord server, where I help other members and receive help from an incredible community, am part of a book club for You Don't Know JavaScript 1st Edition, and make contributions to the Odin Project repos.
 
 ---
 
 ### Future Plans...
 
-- Delve some of the more popular CSS frameworks.
 - Expand my back-end knowledge to evolve from a front-end dev to a full-stack dev.
-- Work on the aesthetic side of my apps in parallel with the accessibility side.
-- Continue making contributions to The Odin Project, and look for other open source contributions that I can become a part of. Know of any? Let me know!
+- Continue making contributions to The Odin Project, and look for other open source contribution opportunities.
+- Continue to work on the aesthetic side of my apps in parallel with the accessibility side.
+- Delve into one of the many CSS frameworks available.
+- Checkoff some of the personal project ideas on my to-do list, including a D&D character builder for homebrew settings.
 
 ---
 
@@ -38,7 +41,7 @@ Beyond expanding my skills and knowledge, I'm a member of [The Odin Project](htt
 
 When I'm not coding, I most enjoy flexing my creative muscles by playing in and running D&D campaigns. :game_die:
 
-For the campaign that I run, I took bits and pieces of a homebrew to design my own set of homebrew rules, which proved to be a lengthy process (2+ years to get the rules in a playable state). Collaborating with friends/players to create a story together, built from the ground up by nothing but our imaginations, and having endless possibilities... I guess getting into coding was only :game_die: natural. :game_die:
+For the campaign that I run, I took bits and pieces of a homebrew to design my own set of homebrew rules, which proved to be a lengthy process (2+ years to get the rules in a playable state). Collaborating with friends/players to create something together, built from the ground up by nothing but our imaginations, and having endless possibilities... I guess learning to become a web developer was only :game_die: natural. :game_die:
 
 ---
 
