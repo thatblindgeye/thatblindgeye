@@ -1,11 +1,11 @@
-<img alt="A banner with the text, 'dedicated to creating an accessible web experience.'" src="./gitbanner.png">
+<img alt="A banner with the text, 'dedicated to creating an accessible experience.'" src="./gitbanner.png">
 
 <a href="mailto:ejo10488@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/ericolkowski/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br><br>
 <h2 align="center">My name is Eric (he/him). N-eyes to meet you! :eyeglasses:</h2>
 
-I'm a Front-End Web Developer, focused on making apps as accessible as possible. As someone with an eye disease, having accessible features in an app can be a huge deal for me. Understanding how certain features affect others with impairments or disabilties is something I am constantly researching and wanting to expand my knowledge of. My goal with any project I create is to make it as accessible as possible.
+I'm a Software Engineer with a focus on accessibility. As someone with an eye disease, having accessible features can be a huge deal for me. Understanding how certain features affect others with impairments or disabilties is something I am constantly researching and wanting to expand my knowledge of. My goal with any project I create is to make it as accessible as possible.
 
 The great thing about learning more and more about accessibility is that not once have I ever felt like I wasn't doing enough, or that I had to cater to every accessibility feature out there immediately. I understand that I am learning and growing, and I'll know more tomorrow than I do today. A particular quote that I think more people should understand about making things more accessible, especially if they're just starting to do so:
 
@@ -15,24 +15,14 @@ The great thing about learning more and more about accessibility is that not onc
 
 <br>
 
-Beyond my personal goal of learning about (and helping others better understand) accessibility, I also have experience with React (both class components with lifecycle methods and functional components with hooks), asyncrhonous JavaScript (async/await and Promises), webpack and modules, and team-based programming by taking part in [The Odin Project](https://www.theodinproject.com/)'s first gamejam. 
-
----
-
-### Currently...
-
-I'm expanding my skills in creating accessible-friendly apps (does this belong here or the "from now until forever" section?), and will soon be diving into learning more about test driven development.
-
-Beyond expanding my skills and knowledge, I'm a member of The Odin Project and its Discord server, where I help other members and receive help from an incredible community, am part of a book club for You Don't Know JavaScript 1st Edition, and make contributions to the Odin Project repos.
+Beyond my personal goal of learning about (and helping others better understand) accessibility, I also work for Red Hat on their [Patternfly](https://www.patternfly.org/v4/) team, and am a maintainer for the [The Odin Project](https://www.theodinproject.com/). 
 
 ---
 
 ### Future Plans...
 
-- Expand my back-end knowledge to evolve from a front-end dev to a full-stack dev.
+- Expand my back-end knowledge to evolve from strictly front-end work.
 - Continue making contributions to The Odin Project, and look for other open source contribution opportunities.
-- Continue to work on the aesthetic side of my apps in parallel with the accessibility side.
-- Delve into one of the many CSS frameworks available.
 - Checkoff some of the personal project ideas on my to-do list, including a D&D character builder for homebrew settings.
 
 ---
