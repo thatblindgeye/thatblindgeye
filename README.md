@@ -31,7 +31,7 @@ Beyond my personal goal of learning about (and helping others better understand)
 
 When I'm not coding, I most enjoy flexing my creative muscles by playing in and running D&D campaigns. :game_die:
 
-For the campaign that I run, I took bits and pieces of a homebrew to design my own set of homebrew rules, which proved to be a lengthy process (2+ years to get the rules in a playable state). Collaborating with friends/players to create something together, built from the ground up by nothing but our imaginations, and having endless possibilities... I guess learning to become a web developer was only :game_die: natural. :game_die:
+For the campaign that I run, I took bits and pieces of a homebrew to design my own set of homebrew rules, which proved to be a lengthy process (2+ years to get the rules in a playable state). Collaborating with friends/players in an inclusive environment to create something together, built from the ground up by nothing but our imaginations, and having endless possibilities... I guess learning to become a software engineer was only :game_die: *natural*. :game_die:
 
 ---
 <div align="center">
