@@ -1,7 +1,5 @@
 <img alt="A banner with the text, 'dedicated to creating an accessible experience.'" src="./gitbanner.png">
 
-<a href="mailto:ejo10488@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ericolkowski/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br><br>
 <h2 align="center">My name is Eric (he/him). N-eyes to meet you! :eyeglasses:</h2>
 
@@ -16,14 +14,6 @@ The great thing about learning more and more about accessibility is that not onc
 <br>
 
 Beyond my personal goal of learning about (and helping others better understand) accessibility, I also work for Red Hat on their [Patternfly](https://www.patternfly.org/v4/) team, and am a maintainer for the [The Odin Project](https://www.theodinproject.com/). 
-
----
-
-### Future Plans...
-
-- Expand my back-end knowledge to evolve from strictly front-end work.
-- Continue making contributions to The Odin Project, and look for other open source contribution opportunities.
-- Checkoff some of the personal project ideas on my to-do list, including a D&D character builder for homebrew settings.
 
 ---
 
